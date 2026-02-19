@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒゲとボイン",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-19T12:38:15.563521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒゲとボイン",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/01_ヒゲとボイン_UNICORN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒゲとボイン",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_ヒゲとボイン_UNICORN.txt"
+    }
+  ]
+}
